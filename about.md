@@ -8,5 +8,4 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Hello! My name is Alessandro and I'm a Senior planning (and hoping if all goes well) to graduate this semester. I've always wanted to contribute to open source projects but definitely needed a structured environment to start. I'm extremely happy to have the opportunity to take this class and I'm excited to start finding open source projects to contribute to.
