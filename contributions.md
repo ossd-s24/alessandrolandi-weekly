@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 21  | [link](https://www.openstreetmap.org/changeset/147743053)    | OpenStreetMap    |   Added business to home town    |
-|     |     |     |      |
+| Feb 28  | [link](https://www.openstreetmap.org/changeset/148025897)    | OpenStreetMap    |   Made edit to local restaurant which changed names    |
 |     |     |     |      |
