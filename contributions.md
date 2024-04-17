@@ -27,3 +27,5 @@ Replace the first row with your own contribution.
 | Feb 29  | [link](https://www.openstreetmap.org/changeset/148067745)    | OpenStreetMap    |   Removed business which no longer operates (currently vacant)    |
 | Apr 5  | [link](https://en.wikipedia.org/w/index.php?title=The_Big_House_(tournament)&oldid=1217444721)    | Wikipedia    |   Added link to Super Smash Bros Big House Wikipedia   |
 | Apr 14  | [link](https://en.wikipedia.org/w/index.php?title=Bitwarden&oldid=1218939629)    | Wikipedia    |   Added Rust programming language to languages used section   |
+| Apr 17  | [link](https://en.wikipedia.org/w/index.php?title=Tailwind_CSS&oldid=1219454258)    | Wikipedia    |   Updated Github stars to reflect current date   |
+
